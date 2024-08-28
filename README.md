@@ -1,25 +1,27 @@
-<h1 align="center">Hi 👋, I'm FARIDUL ADIB HARUNI</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+### Hi there 👋, I'm Faridul Adib Haruni
+#### Web Developer
+![Web Developer](https://github.com/Adib-Haruni/Adib-Haruni/blob/main/banner.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adib-haruni&label=Profile%20views&color=0e75b6&style=flat" alt="adib-haruni" /> </p>
+Hay 👋 , I introduce myself I'm Faridul Adib Haruni. I work on 👨‍💻 Web Development with HTML(5) & CSS(3) . If you want, you can create your website from me 🤝. I will be very happy if you build the website from me😄👯 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adib-haruni" alt="adib-haruni" /></a> </p>
+Skills:  HTML / CSS
 
-- 🌱 I’m currently learning **HTML&CSS**
+- 🔭 I’m currently working on Website create 
+- 📫 How to reach me: fariduladibharuni@gmail.com 
+- ⚡ Fun fact: I think I'm funny 
 
-- 📫 How to reach me **fariduladibharuni@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/abrarh adib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrarh adib" height="30" width="40" /></a>
-<a href="https://instagram.com/abrarh adib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abrarh adib" height="30" width="40" /></a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Adib-Haruni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Abrarh Adib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Abrarh Adib/)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adib-haruni&show_icons=true&locale=en&layout=compact" alt="adib-haruni" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adib-Haruni)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adib-haruni&show_icons=true&locale=en" alt="adib-haruni" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adib-Haruni)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adib-haruni&" alt="adib-haruni" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Adib-Haruni&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Adib-Haruni)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Adib-Haruni)  
+
