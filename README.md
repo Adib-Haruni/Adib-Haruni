@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Faridul Adib Haruni
 #### Web Developer
-![Web Developer](https://github.com/Adib-Haruni/Adib-Haruni/blob/main/banner.jpg)
+![Web Developer](https://github.com/Adib-Haruni/Adib-Haruni/blob/main/html_css_banner.jpg)
 
 Hay 👋 , I introduce myself I'm Faridul Adib Haruni. I work on 👨‍💻 Web Development with HTML(5) & CSS(3) . If you want, you can create your website from me 🤝. I will be very happy if you build the website from me😄👯 
 
